@@ -25,6 +25,7 @@ function evenLine(n) {
      }
      return returningLine;
 }
+
 function oddLine(n) {
      let returningLine = '';
      for (let i = 0; i < n; i++) {
